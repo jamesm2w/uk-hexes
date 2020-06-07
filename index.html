@@ -1,0 +1,93 @@
+<!DOCTYPE html>
+<html lang="en">
+	<head>
+		<title>UK Elections Hex Map</title>
+		<meta charset="utf-8" />
+		<meta http-equiv="X-UA-Compatible" content="IE=edge" />
+		<meta name="viewport" content="width=device-width, initial-scale=1" />
+		<link href="https://fonts.googleapis.com/css?family=Noto+Sans:400,700&display=swap" rel="stylesheet" />
+		<link rel="stylesheet" href="style.css" />
+	</head>
+	<body>
+
+		<!-- List of Constituencies and ONS ID codes for searching -->
+		<datalist id="constituencies"></datalist>
+
+		<!-- Absolute positioned box with the config -->
+		<div id="floating-info">
+			<h2>
+				UK Electoral Data Hex Map
+			</h2>
+			<p>
+				<button onclick="map.switchDataSource(2015, 'General Election')">GE2015</button>
+				<button onclick="map.switchDataSource(2017, 'General Election')">GE2017</button>
+				<button onclick="map.switchDataSource(2019, 'General Election')">GE2019</button>
+			</p>
+			<p>
+				<button onclick="map.switchDataSource('2015-2017', 'By-Election')">BE2015-2017</button>
+				<button onclick="map.switchDataSource('2017-2019', 'By-Election')">BE2017-2019</button>
+				<button onclick="map.switchDataSource('2019-', 'By-Election')">BE2019-</button>
+			</p>
+	  		<p>
+				Options:
+				<ul style="list-style-type: none;">
+					<li><input type="checkbox" id="configScaleBarWidth" value="configScaleBarWidth"> Scaled width bar charts</li>
+				</ul>
+			</p>
+		</div>
+
+		<!-- Provides wrapping for content -->
+		<div class="container">
+			<!-- Map Controls -->
+			<div id="controls">
+				<input id="inputConst" list="constituencies" onkeyup="if(event.keyCode === 13){document.getElementById('selectConst').click()}">
+
+				<button id="selectConst">Select</button>
+				<button id="clearFocus" class="hidden">Clear Focus</button>
+
+				<h2 id="electionTitle"></h2>
+				<div style="float: left;"><strong>General Result: </strong><span id="electoralResult"></span></div>
+				<div style="float: right;"><button onclick="document.getElementById('resultTable').classList.toggle('hidden');">Seat Totals</button></div>
+
+				<table id="resultTable" class="hidden">
+					<tr> <th>Party</th> <th>Seats</th> <th>Votes</th> </tr>
+				</table>
+
+				<hr style="clear: both;">
+
+				<h2 id="constTitle">Constituency Name</h2>
+				<h3 id="electedMP">John Smith MP</h3>
+				<p id="byElectionInformation"><strong>Date Held:</strong> 1 January 1970 <strong>Reason:</strong> Resignation </p>
+
+				<p id="resultInformation"><strong>Result: </strong>Party gain from Oth <strong>Majority of</strong> 10000</p>
+				<p id="electionInformation"><strong>Electorate: </strong> 90000 <strong>Turnout: </strong> 45000 (50%)</p>
+
+
+				<table id="constResultTable" style="width: 100%;">
+					<tr> <th>Party</th> <th>Votes</th> <th>Bar</th> </tr>
+				</table>
+				<span id="otherParties"></span>
+			</div>
+			
+			<!-- Map Container -->
+			<div id="map"></div>
+		</div>
+		
+		<!-- Scripts -->
+		<script src="https://d3js.org/d3.v5.min.js"></script>
+		<script src="js/d3-hexjson.min.js"></script>
+		<script src="js/EventHandler.js"></script>
+		<script src="js/Logger.js"></script>
+		<script src="js/Config.js"></script>
+		<script src="js/Map.js"></script>
+		<script>
+			if (!NodeList.prototype.last) {
+				NodeList.prototype.last = function() {
+					return this[this.length - 1];
+				}
+			}
+
+			var map = new Map();
+		</script>
+	</body>
+</html>

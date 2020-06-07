@@ -1,0 +1,500 @@
+{
+	"N06000018": {
+		"id": "N06000018",
+		"name": "West Tyrone",
+		"by-election": {
+			"date": "3 May 2018",
+			"reason": "Resignation over social media post"
+		},
+		"electorate": 64101,
+		"turnout": 35337,
+		"majority": 7956,
+		"result": "SF hold",
+		"mp": {
+			"name": "Órfhlaith Begley",
+			"party": "SF"
+		},
+		"candidates": [
+			{
+				"candidate": "Órfhlaith Begley",
+				"party": "SF",
+				"votes": 16346,
+				"change": "-4.0",
+				"incumbent": false,
+				"elected": true
+			},
+			{
+				"candidate": "Thomas Buchanan",
+				"party": "DUP",
+				"votes": 8390,
+				"change": "-3.0",
+				"incumbent": false,
+				"elected": false
+			},
+			{
+				"candidate": "Daniel McCrossan",
+				"party": "SDLP",
+				"votes": 6254,
+				"change": "4.9",
+				"incumbent": false,
+				"elected": false
+			},
+			{
+				"candidate": "Chris Smith",
+				"party": "UUP",
+				"votes": 2909,
+				"change": "3.1",
+				"incumbent": false,
+				"elected": false
+			},
+			{
+				"candidate": "Stephen Donnelly",
+				"party": "Alliance",
+				"votes": 1130,
+				"change": "0.9",
+				"incumbent": false,
+				"elected": false
+			}
+		]
+	},
+	"E14000787": {
+		"id": "E14000787",
+		"name": "Lewisham East",
+		"by-election": {
+			"date": "14 June 2018",
+			"reason": "Resignation upon appointment as Deputy Mayor of London"
+		},
+		"electorate": 66140,
+		"turnout": 22056,
+		"majority": 5629,
+		"result": "Lab hold",
+		"mp": {
+			"name": "Janet Daby",
+			"party": "Lab"
+		},
+		"candidates": [
+			{
+				"candidate": "Janet Daby",
+				"party": "Lab",
+				"votes": 11033,
+				"change": "-17.7",
+				"incumbent": false,
+				"elected": true
+			},
+			{
+				"candidate": "Lucy Salek",
+				"party": "LD",
+				"votes": 5404,
+				"change": "20.2",
+				"incumbent": false,
+				"elected": false
+			},
+			{
+				"candidate": "Ross Archer",
+				"party": "Con",
+				"votes": 3161,
+				"change": "-8.6",
+				"incumbent": false,
+				"elected": false
+			},
+			{
+				"candidate": "Rosamund Adoo-Kissi-Debrah",
+				"party": "Green",
+				"votes": 788,
+				"change": "1.9",
+				"incumbent": false,
+				"elected": false
+			},
+			{
+				"candidate": "Mandu Reid",
+				"party": "WEP",
+				"votes": 506,
+				"change": "0.0",
+				"incumbent": false,
+				"elected": false
+			},
+			{
+				"candidate": "David Kurten",
+				"party": "UKIP",
+				"votes": 380,
+				"change": "0.0",
+				"incumbent": false,
+				"elected": false
+			},
+			{
+				"candidate": "Anne Marie Waters",
+				"party": "For Britain",
+				"votes": 266,
+				"change": "0.0",
+				"incumbent": false,
+				"elected": false
+			},
+			{
+				"candidate": "Maureen Martin",
+				"party": "CPA",
+				"votes": 168,
+				"change": "0.3",
+				"incumbent": false,
+				"elected": false
+			},
+			{
+				"candidate": "Howling Laud Hope",
+				"party": "MRLP",
+				"votes": 93,
+				"change": "0.0",
+				"incumbent": false,
+				"elected": false
+			},
+			{
+				"candidate": "Massimo DiMambro",
+				"party": "Democrats and Veterans",
+				"votes": 67,
+				"change": "0.0",
+				"incumbent": false,
+				"elected": false
+			},
+			{
+				"candidate": "Sean Finch",
+				"party": "Libertarian",
+				"votes": 38,
+				"change": "0.0",
+				"incumbent": false,
+				"elected": false
+			},
+			{
+				"candidate": "Charles Edward Carey",
+				"party": "Ind",
+				"votes": 37,
+				"change": "0.0",
+				"incumbent": false,
+				"elected": false
+			},
+			{
+				"candidate": "Patrick Gray",
+				"party": "The Radical Party",
+				"votes": 20,
+				"change": "0.0",
+				"incumbent": false,
+				"elected": false
+			},
+			{
+				"candidate": "Thomas Hall",
+				"party": "Young People's",
+				"votes": 18,
+				"change": "0.0",
+				"incumbent": false,
+				"elected": false
+			}
+		]
+	},
+	"W07000056": {
+		"id": "W07000056",
+		"name": "Newport West",
+		"by-election": {
+			"date": "6 June 2019",
+			"reason": "Death (long-term illness)"
+		},
+		"electorate": 63623,
+		"turnout": 23515,
+		"majority": 1951,
+		"result": "Lab hold",
+		"mp": {
+			"name": "Ruth Jones",
+			"party": "Lab"
+		},
+		"candidates": [
+			{
+				"candidate": "Ruth Jones",
+				"party": "Lab",
+				"votes": 9308,
+				"change": "-12.7",
+				"incumbent": false,
+				"elected": true
+			},
+			{
+				"candidate": "Matthew Evans",
+				"party": "Con",
+				"votes": 7357,
+				"change": "-8.0",
+				"incumbent": false,
+				"elected": false
+			},
+			{
+				"candidate": "Neil Hamilton",
+				"party": "UKIP",
+				"votes": 2023,
+				"change": "6.1",
+				"incumbent": false,
+				"elected": false
+			},
+			{
+				"candidate": "Jonathan Clarke",
+				"party": "PC",
+				"votes": 1185,
+				"change": "2.5",
+				"incumbent": false,
+				"elected": false
+			},
+			{
+				"candidate": "Ryan Jones",
+				"party": "LD",
+				"votes": 1088,
+				"change": "2.4",
+				"incumbent": false,
+				"elected": false
+			},
+			{
+				"candidate": "Amelia Womack",
+				"party": "Green",
+				"votes": 924,
+				"change": "2.8",
+				"incumbent": false,
+				"elected": false
+			},
+			{
+				"candidate": "June Davies",
+				"party": "Renew",
+				"votes": 879,
+				"change": "0.0",
+				"incumbent": false,
+				"elected": false
+			},
+			{
+				"candidate": "Richard Suchorzewski ",
+				"party": "Abolish The Welsh Assembly",
+				"votes": 205,
+				"change": "0.0",
+				"incumbent": false,
+				"elected": false
+			},
+			{
+				"candidate": "Ian McLean",
+				"party": "SDP",
+				"votes": 202,
+				"change": "0.0",
+				"incumbent": false,
+				"elected": false
+			},
+			{
+				"candidate": "Philip Taylor",
+				"party": "Democrats and Veterans",
+				"votes": 185,
+				"change": "0.0",
+				"incumbent": false,
+				"elected": false
+			},
+			{
+				"candidate": "Hugh Nicklin",
+				"party": "For Britain",
+				"votes": 159,
+				"change": "0.0",
+				"incumbent": false,
+				"elected": false
+			}
+		]
+	},
+	"E14000878": {
+		"id": "E14000878",
+		"name": "Peterborough",
+		"by-election": {
+			"date": "6 June 2019",
+			"reason": "Recall Petition (Perverting the course of justice)"
+		},
+		"electorate": 71522,
+		"turnout": 33920,
+		"majority": 683,
+		"result": "Lab hold",
+		"mp": {
+			"name": "Lisa Forbes",
+			"party": "Lab"
+		},
+		"candidates": [
+			{
+				"candidate": "Lisa Forbes",
+				"party": "Lab",
+				"votes": 10484,
+				"change": "-17.2",
+				"incumbent": false,
+				"elected": true
+			},
+			{
+				"candidate": "Mike Greene",
+				"party": "Brexit",
+				"votes": 9801,
+				"change": "28.9",
+				"incumbent": false,
+				"elected": false
+			},
+			{
+				"candidate": "Paul Bristow",
+				"party": "Con",
+				"votes": 7243,
+				"change": "-25.5",
+				"incumbent": false,
+				"elected": false
+			},
+			{
+				"candidate": "Beki Sellick",
+				"party": "LD",
+				"votes": 4159,
+				"change": "8.9",
+				"incumbent": false,
+				"elected": false
+			},
+			{
+				"candidate": "Joseph Wells",
+				"party": "Green",
+				"votes": 1035,
+				"change": "1.27",
+				"incumbent": false,
+				"elected": false
+			},
+			{
+				"candidate": "John Whitby",
+				"party": "UKIP",
+				"votes": 400,
+				"change": "0.0",
+				"incumbent": false,
+				"elected": false
+			},
+			{
+				"candidate": "Tom Rogers",
+				"party": "CPA",
+				"votes": 162,
+				"change": "0.0",
+				"incumbent": false,
+				"elected": false
+			},
+			{
+				"candidate": "Stephen Goldspink",
+				"party": "English Democrat",
+				"votes": 153,
+				"change": "0.0",
+				"incumbent": false,
+				"elected": false
+			},
+			{
+				"candidate": "Patrick O'Flynn",
+				"party": "SDP",
+				"votes": 135,
+				"change": "0.0",
+				"incumbent": false,
+				"elected": false
+			},
+			{
+				"candidate": "Alan \"Howling Laud\" Hope",
+				"party": "MRLP",
+				"votes": 112,
+				"change": "0.0",
+				"incumbent": false,
+				"elected": false
+			},
+			{
+				"candidate": "Andrew Moore",
+				"party": "Ind",
+				"votes": 101,
+				"change": "0.0",
+				"incumbent": false,
+				"elected": false
+			},
+			{
+				"candidate": "Dick Rodgers",
+				"party": "Common Good",
+				"votes": 60,
+				"change": "0.0",
+				"incumbent": false,
+				"elected": false
+			},
+			{
+				"candidate": "Peter Ward",
+				"party": "Renew",
+				"votes": 45,
+				"change": "0.0",
+				"incumbent": false,
+				"elected": false
+			},
+			{
+				"candidate": "Pierre Kirk",
+				"party": "UK EU",
+				"votes": 25,
+				"change": "0.0",
+				"incumbent": false,
+				"elected": false
+			},
+			{
+				"candidate": "Bobby Smith",
+				"party": "Ind",
+				"votes": 5,
+				"change": "0.0",
+				"incumbent": false,
+				"elected": false
+			}
+		]
+	},
+	"W07000068": {
+		"id": "W07000068",
+		"name": "Brecon and Radnorshire",
+		"by-election": {
+			"date": "1 August 2019",
+			"reason": "Recall Petition (Expenses Fraud)"
+		},
+		"electorate": 56010,
+		"turnout": 31814,
+		"majority": 1425,
+		"result": "LD gain from Con",
+		"mp": {
+			"name": "Jane Dodds",
+			"party": "LD"
+		},
+		"candidates": [
+			{
+				"candidate": "Jane Dodds",
+				"party": "LD",
+				"votes": 13826,
+				"change": "14.4",
+				"incumbent": false,
+				"elected": true
+			},
+			{
+				"candidate": "Christopher Davies",
+				"party": "Con",
+				"votes": 12401,
+				"change": "-9.6",
+				"incumbent": true,
+				"elected": false
+			},
+			{
+				"candidate": "Des Parkinson",
+				"party": "Brexit",
+				"votes": 3331,
+				"change": "0.0",
+				"incumbent": false,
+				"elected": false
+			},
+			{
+				"candidate": "Tom Davies",
+				"party": "Lab",
+				"votes": 1680,
+				"change": "-12.4",
+				"incumbent": false,
+				"elected": false
+			},
+			{
+				"candidate": "Lady Lily the Pink",
+				"party": "MRLP",
+				"votes": 334,
+				"change": "0.0",
+				"incumbent": false,
+				"elected": false
+			},
+			{
+				"candidate": "Liz Phillips",
+				"party": "UKIP",
+				"votes": 242,
+				"change": "0.0",
+				"incumbent": false,
+				"elected": false
+			}
+		]
+	}
+}

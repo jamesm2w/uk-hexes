@@ -1,0 +1,235 @@
+{
+  "2010": {
+    "result": "Con/LD coal",
+    "Conservative Party": {
+      "seats": 306,
+      "votes": 10703754
+    },
+    "Labour Party": {
+      "seats": 258,
+      "votes": 8609527
+    },
+    "Liberal Democrat": {
+      "seats": 57,
+      "votes": 6836825
+    },
+    "Green Party": {
+      "seats": 1,
+      "votes": 285616
+    },
+    "Speaker": {
+      "seats": 1,
+      "votes": 22860
+    },
+    "Independent": {
+      "seats": 1,
+      "votes": 21181
+    },
+    "Democratic Unionist Party": {
+      "seats": 8,
+      "votes": 168216
+    },
+    "Sinn Fein": {
+      "seats": 5,
+      "votes": 171942
+    },
+    "Scottish National Party": {
+      "seats": 6,
+      "votes": 491386
+    },
+    "Plaid Cymru": {
+      "seats": 3,
+      "votes": 165394
+    },
+    "Social Democratic & Labour Party": {
+      "seats": 3,
+      "votes": 110970
+    },
+    "Alliance": {
+      "seats": 1,
+      "votes": 42762
+    }
+  },
+  "2015": {
+    "result": "Con majority",
+    "Conservative Party": {
+      "seats": 330,
+      "votes": 11299609
+    },
+    "Labour Party": {
+      "seats": 232,
+      "votes": 9347273
+    },
+    "Liberal Democrat": {
+      "seats": 8,
+      "votes": 2415916
+    },
+    "Green Party": {
+      "seats": 1,
+      "votes": 285616
+    },
+    "Speaker": {
+      "seats": 1,
+      "votes": 34617
+    },
+    "Independent": {
+      "seats": 1,
+      "votes": 17689
+    },
+    "Democratic Unionist Party": {
+      "seats": 8,
+      "votes": 184260
+    },
+    "Sinn Fein": {
+      "seats": 4,
+      "votes": 176232
+    },
+    "Scottish National Party": {
+      "seats": 65,
+      "votes": 1454436
+    },
+    "Plaid Cymru": {
+      "seats": 3,
+      "votes": 181704
+    },
+    "Social Democratic & Labour Party": {
+      "seats": 3,
+      "votes": 99809
+    },
+    "UK Independence Party": {
+      "seats": 1,
+      "votes": 3881099
+    },
+    "Ulster Unionist Party": {
+      "seats": 2,
+      "votes": 114935	
+    }
+  },
+  "2015-2017": {
+    "result": "LD +1; Con 0; Lab -1",
+    "Labour Party": {
+      "seats": 6,
+      "votes": 109176
+    },
+    "Conservative Party": {
+      "seats": 3,
+      "votes": 72141
+    },
+    "Liberal Democrat": {
+      "seats": 1,
+      "votes": 43993
+    }
+  },
+  "2017": {
+    "result": "Con min/DUP supply",
+    "Conservative Party": {
+      "seats": 317,
+      "votes": 13636684
+    },
+    "Labour Party": {
+      "seats": 262,
+      "votes": 12877918
+    },
+    "Liberal Democrat": {
+      "seats": 12,
+      "votes": 2371861
+    },
+    "Green Party": {
+      "seats": 1,
+      "votes": 525665
+    },
+    "Speaker": {
+      "seats": 1,
+      "votes": 34299
+    },
+    "Independent": {
+      "seats": 1,
+      "votes": 16148
+    },
+    "Democratic Unionist Party": {
+      "seats": 10,
+      "votes": 292316
+    },
+    "Sinn Fein": {
+      "seats": 7,
+      "votes": 238915
+    },
+    "Scottish National Party": {
+      "seats": 35,
+      "votes": 977568
+    },
+    "Plaid Cymru": {
+      "seats": 4,
+      "votes": 164466
+    }
+  },
+  "2017-2019": {
+    "result": "LD +1; Lab 0; SF 0; Con -1",
+    "Labour Party": {
+      "seats": "3",
+      "votes": 32505
+    },
+    "Conservative Party": {
+      "seats": "0",
+      "votes": 30162
+    },
+    "Liberal Democrat": {
+      "seats": "1",
+      "votes": 24477
+    },
+    "Sinn Fein": {
+      "seats": "1",
+      "votes": 16346
+    }
+  },
+  "2019": {
+    "result": "Con majority",
+    "Conservative Party": {
+      "seats": 365,
+      "votes": 13966565
+    },
+    "Labour Party": {
+      "seats": 202,
+      "votes": 10269076
+    },
+    "Liberal Democrat": {
+      "seats": 11,
+      "votes": 3696423
+    },
+    "Green Party": {
+      "seats": 1,
+      "votes": 835579
+    },
+    "Speaker": {
+      "seats": 1,
+      "votes": 26831
+    },
+    "Democratic Unionist Party": {
+      "seats": 8,
+      "votes": 244128
+    },
+    "Sinn Fein": {
+      "seats": 7,
+      "votes": 181853
+    },
+    "Alliance": {
+      "seats": 1,
+      "votes": 134115
+    },
+    "Social Democratic & Labour Party": {
+      "seats": 2,
+      "votes": 118737
+    },
+    "Scottish National Party": {
+      "seats": 48,
+      "votes": 1242380
+    },
+    "Plaid Cymru": {
+      "seats": 4,
+      "votes": 153265
+    }
+  },
+  "2019-": {
+    "result": "No Change"
+  }
+}

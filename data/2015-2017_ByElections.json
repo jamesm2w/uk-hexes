@@ -1,0 +1,894 @@
+{
+	"E14000871": {
+		"id": "E14000871",
+		"name": "Oldham West and Royton",
+		"by-election": {
+			"date": "3 December 2015",
+			"reason": "Death (Short Illness)"
+		},
+		"electorate": 49821,
+		"turnout": 27706,
+		"majority": 10722,
+		"result": "Lab hold",
+		"mp": {
+			"name": "Jim McMahon",
+			"party": "Lab"
+		},
+		"candidates": [{
+			"candidate": "Jim McMahon",
+			"party": "Lab",
+			"votes": 17209,
+			"change": "+7.3",
+			"incumbent": false,
+			"elected": true
+		}, {
+			"candidate": "John Bickley",
+			"party": "UKIP",
+			"votes": 6487,
+			"change": "2.8",
+			"incumbent": false,
+			"elected": false
+		}, {
+			"candidate": "James Daly",
+			"party": "Con",
+			"votes": 2596,
+			"change": "-9.6",
+			"incumbent": false,
+			"elected": false
+		}, {
+			"candidate": "Jane Brophy",
+			"party": "LD",
+			"votes": 1024,
+			"change": "0.0",
+			"incumbent": false,
+			"elected": false
+		}, {
+			"candidate": "Simeon Hart",
+			"party": "Green",
+			"votes": 249,
+			"change": "-1.0",
+			"incumbent": false,
+			"elected": false
+		}, {
+			"candidate": "Sir Oink A-Lot",
+			"party": "MRLP",
+			"votes": 141,
+			"change": "0.0",
+			"incumbent": false,
+			"elected": false
+		}]
+	},
+	"E14000921": {
+		"id": "E14000921",
+		"name": "Sheffield, Brightside and Hillsborough",
+		"by-election": {
+			"date": "5 May 2016",
+			"reason": "Death (Cancer)"
+		},
+		"electorate": 70874,
+		"turnout": 22581,
+		"majority": 9590,
+		"result": "Lab hold",
+		"mp": {
+			"name": "Gill Furniss",
+			"party": "Lab"
+		},
+		"candidates": [{
+				"candidate": "Gill Furniss",
+				"party": "Lab",
+				"votes": 14087,
+				"change": "5.9",
+				"incumbent": false,
+				"elected": true
+			},
+			{
+				"candidate": "Steven Winstone",
+				"party": "UKIP",
+				"votes": 4497,
+				"change": "-2.2",
+				"incumbent": false,
+				"elected": false
+			},
+			{
+				"candidate": "Shaffaq Mohammed",
+				"party": "LD",
+				"votes": 1385,
+				"change": "1.6",
+				"incumbent": false,
+				"elected": false
+			},
+			{
+				"candidate": "Spencer Pitfield",
+				"party": "Con",
+				"votes": 1267,
+				"change": "-5.4",
+				"incumbent": false,
+				"elected": false
+			},
+			{
+				"candidate": "Christine Gilligan Kubo",
+				"party": "Green",
+				"votes": 938,
+				"change": "-0.1",
+				"incumbent": false,
+				"elected": false
+			},
+			{
+				"candidate": "Stevie Manion",
+				"party": "Yorkshire First",
+				"votes": 349,
+				"change": "0.0",
+				"incumbent": false,
+				"elected": false
+			},
+			{
+				"candidate": "Bobby Smith",
+				"party": "Give Me Back Elmo",
+				"votes": 58,
+				"change": "0.0",
+				"incumbent": false,
+				"elected": false
+			}
+		]
+	},
+	"W07000074": {
+		"id": "W07000074",
+		"name": "Ogmore",
+		"by-election": {
+			"date": "5 May 2016",
+			"reason": "Resigned to Contest Welsh Assembley Election"
+		},
+		"electorate": 55572,
+		"turnout": 23532,
+		"majority": 8575,
+		"result": "Lab hold",
+		"mp": {
+			"name": "Chris Elmore",
+			"party": "Lab"
+		},
+		"candidates": [{
+				"candidate": "Chris Elmore",
+				"party": "Lab",
+				"votes": 12383,
+				"change": "-0.2",
+				"incumbent": false,
+				"elected": true
+			},
+			{
+				"candidate": "Glenda Davies",
+				"party": "UKIP",
+				"votes": 3808,
+				"change": "1.2",
+				"incumbent": false,
+				"elected": false
+			},
+			{
+				"candidate": "Abi Thomas",
+				"party": "PC",
+				"votes": 3683,
+				"change": "5.6",
+				"incumbent": false,
+				"elected": false
+			},
+			{
+				"candidate": "Alex Williams",
+				"party": "Con",
+				"votes": 2956,
+				"change": "-3.3",
+				"incumbent": false,
+				"elected": false
+			},
+			{
+				"candidate": "Janet Ellard",
+				"party": "LD",
+				"votes": 702,
+				"change": "0.0",
+				"incumbent": false,
+				"elected": false
+			}
+		]
+	},
+	"E14000998": {
+		"id": "E14000998",
+		"name": "Tooting",
+		"by-election": {
+			"date": "16 June 2016",
+			"reason": "Resigned Upon election as Mayor of London"
+		},
+		"electorate": 74701,
+		"turnout": 32048,
+		"majority": 6357,
+		"result": "Lab hold",
+		"mp": {
+			"name": "Rosena Allin-Khan",
+			"party": "Lab"
+		},
+		"candidates": [{
+				"candidate": "Rosena Allin-Khan",
+				"party": "Lab",
+				"votes": 17894,
+				"change": "8.7",
+				"incumbent": false,
+				"elected": true
+			},
+			{
+				"candidate": "Dan Watkins",
+				"party": "Con",
+				"votes": 11537,
+				"change": "-5.8",
+				"incumbent": false,
+				"elected": false
+			},
+			{
+				"candidate": "Esther Obiri-Darko",
+				"party": "Green",
+				"votes": 830,
+				"change": "-1.5",
+				"incumbent": false,
+				"elected": false
+			},
+			{
+				"candidate": "Alex Glassbrook",
+				"party": "LD",
+				"votes": 820,
+				"change": "-1.4",
+				"incumbent": false,
+				"elected": false
+			},
+			{
+				"candidate": "Elizabeth Jones",
+				"party": "UKIP",
+				"votes": 507,
+				"change": "-1.3",
+				"incumbent": false,
+				"elected": false
+			},
+			{
+				"candidate": "Des Coke",
+				"party": "Christian Peoples Alliance",
+				"votes": 164,
+				"change": "0.0",
+				"incumbent": false,
+				"elected": false
+			},
+			{
+				"candidate": "Alan \"Howling Laud\" Hope",
+				"party": "MRLP",
+				"votes": 54,
+				"change": "0.0",
+				"incumbent": false,
+				"elected": false
+			},
+			{
+				"candidate": "Graham Moore",
+				"party": "English Democrat",
+				"votes": 50,
+				"change": "0.0",
+				"incumbent": false,
+				"elected": false
+			},
+			{
+				"candidate": "Akbar Ali Malik",
+				"party": "Imigrants Political Party",
+				"votes": 44,
+				"change": "0.0",
+				"incumbent": false,
+				"elected": false
+			},
+			{
+				"candidate": "Ankit Love",
+				"party": "One Love",
+				"votes": 32,
+				"change": "0.0",
+				"incumbent": false,
+				"elected": false
+			},
+			{
+				"candidate": "Zirwa Javaid",
+				"party": "Ind",
+				"votes": 30,
+				"change": "0.0",
+				"incumbent": false,
+				"elected": false
+			},
+			{
+				"candidate": "Zia Samadani",
+				"party": "Ind",
+				"votes": 23,
+				"change": "0.0",
+				"incumbent": false,
+				"elected": false
+			},
+			{
+				"candidate": "Bobby Smith",
+				"party": "Give Me Back Elmo",
+				"votes": 9,
+				"change": "0.0",
+				"incumbent": false,
+				"elected": false
+			},
+			{
+				"candidate": "Smiley Smillie",
+				"party": "Ind",
+				"votes": 30,
+				"change": "0.0",
+				"incumbent": false,
+				"elected": false
+			}
+		]
+	},
+	"E14000548": {
+		"id": "E14000548",
+		"name": "Batley and Spen",
+		"by-election": {
+			"date": "20 October 2016",
+			"reason": "Death (murder)"
+		},
+		"electorate": 78373,
+		"turnout": 20393,
+		"majority": 16537,
+		"result": "Lab hold",
+		"mp": {
+			"name": "Tracy Brabin",
+			"party": "Lab"
+		},
+		"candidates": [{
+				"candidate": "Tracy Brabin",
+				"party": "Lab",
+				"votes": 17506,
+				"change": "42.6",
+				"incumbent": false,
+				"elected": true
+			},
+			{
+				"candidate": "Therese Hirst",
+				"party": "English Democrat",
+				"votes": 969,
+				"change": "0.0",
+				"incumbent": false,
+				"elected": false
+			},
+			{
+				"candidate": "David Furness",
+				"party": "BNP",
+				"votes": 548,
+				"change": "0.0",
+				"incumbent": false,
+				"elected": false
+			},
+			{
+				"candidate": "Garry Kitchin",
+				"party": "Ind",
+				"votes": 517,
+				"change": "0.0",
+				"incumbent": false,
+				"elected": false
+			},
+			{
+				"candidate": "Corbyn Anti",
+				"party": "English Independence",
+				"votes": 241,
+				"change": "0.0",
+				"incumbent": false,
+				"elected": false
+			},
+			{
+				"candidate": "Jack Buckby",
+				"party": "Liberty GB",
+				"votes": 220,
+				"change": "0.0",
+				"incumbent": false,
+				"elected": false
+			},
+			{
+				"candidate": "Henry Mayhew",
+				"party": "Ind",
+				"votes": 153,
+				"change": "0.0",
+				"incumbent": false,
+				"elected": false
+			},
+			{
+				"candidate": "Waqas Ali Khan",
+				"party": "Ind",
+				"votes": 118,
+				"change": "0.0",
+				"incumbent": false,
+				"elected": false
+			},
+			{
+				"candidate": "Richard Edmonds",
+				"party": "National Front",
+				"votes": 87,
+				"change": "0.0",
+				"incumbent": false,
+				"elected": false
+			},
+			{
+				"candidate": "Ankit Love",
+				"party": "One Love",
+				"votes": 34,
+				"change": "0.0",
+				"incumbent": false,
+				"elected": false
+			}
+		]
+	},
+	"E14001046": {
+		"id": "E14001046",
+		"name": "Witney",
+		"by-election": {
+			"date": "20 October 2016",
+			"reason": "Resigned as PM, MP and Leader of the Conservative Party after the EU Referendum"
+		},
+		"electorate": 79767,
+		"turnout": 38455,
+		"majority": 5702,
+		"result": "Con hold",
+		"mp": {
+			"name": "Robert Courts",
+			"party": "Con"
+		},
+		"candidates": [{
+				"candidate": "Robert Courts",
+				"party": "Con",
+				"votes": 17313,
+				"change": "-15.2",
+				"incumbent": false,
+				"elected": true
+			},
+			{
+				"candidate": "Liz Leffman",
+				"party": "LD",
+				"votes": 11611,
+				"change": "23.4",
+				"incumbent": false,
+				"elected": false
+			},
+			{
+				"candidate": "Duncan Enright",
+				"party": "Lab",
+				"votes": 5765,
+				"change": "-2.2",
+				"incumbent": false,
+				"elected": false
+			},
+			{
+				"candidate": "Larry Sanders",
+				"party": "Green",
+				"votes": 1363,
+				"change": "-1.6",
+				"incumbent": false,
+				"elected": false
+			},
+			{
+				"candidate": "Dickie Bird",
+				"party": "UKIP",
+				"votes": 1354,
+				"change": "-5.7",
+				"incumbent": false,
+				"elected": false
+			},
+			{
+				"candidate": "Helen Salisbury",
+				"party": "National Health Action",
+				"votes": 433,
+				"change": "0.0",
+				"incumbent": false,
+				"elected": false
+			},
+			{
+				"candidate": "Daniel Skidmore",
+				"party": "Ind",
+				"votes": 151,
+				"change": "0.0",
+				"incumbent": false,
+				"elected": false
+			},
+			{
+				"candidate": "Mad Hatter",
+				"party": "MRLP",
+				"votes": 129,
+				"change": "0.0",
+				"incumbent": false,
+				"elected": false
+			},
+			{
+				"candidate": "Nicholas Ward",
+				"party": "Ind",
+				"votes": 93,
+				"change": "0.0",
+				"incumbent": false,
+				"elected": false
+			},
+			{
+				"candidate": "David Bishop",
+				"party": "Bus-Pass Elvis",
+				"votes": 61,
+				"change": "0.0",
+				"incumbent": false,
+				"elected": false
+			},
+			{
+				"candidate": "Lord Toby Jug",
+				"party": "Eccentric Party",
+				"votes": 59,
+				"change": "0.0",
+				"incumbent": false,
+				"elected": false
+			},
+			{
+				"candidate": "Winston McKenzie",
+				"party": "English Democrat",
+				"votes": 52,
+				"change": "0.0",
+				"incumbent": false,
+				"elected": false
+			},
+			{
+				"candidate": "Emilia Arno",
+				"party": "One Love",
+				"votes": 44,
+				"change": "0.0",
+				"incumbent": false,
+				"elected": false
+			},
+			{
+				"candidate": "Adam Knight",
+				"party": "Ind",
+				"votes": 27,
+				"change": "0.0",
+				"incumbent": false,
+				"elected": false
+			}
+		]
+	},
+	"E14000896": {
+		"id": "E14000896",
+		"name": "Richmond Park",
+		"by-election": {
+			"date": "1 December 2016",
+			"reason": "Resigned in protest of the expansion of London Heathrow Airport"
+		},
+		"electorate": 77303,
+		"turnout": 41283,
+		"majority": 1872,
+		"result": "LD gain from Con",
+		"mp": {
+			"name": "Sarah Olney",
+			"party": "LD"
+		},
+		"candidates": [{
+				"candidate": "Sarah Olney",
+				"party": "LD",
+				"votes": 20510,
+				"change": "30.4",
+				"incumbent": false,
+				"elected": true
+			},
+			{
+				"candidate": "Zac Goldsmith",
+				"party": "Ind",
+				"votes": 18638,
+				"change": "-13.1",
+				"incumbent": true,
+				"elected": false
+			},
+			{
+				"candidate": "Christian Wolmar",
+				"party": "Lab",
+				"votes": 1515,
+				"change": "-8.7",
+				"incumbent": false,
+				"elected": false
+			},
+			{
+				"candidate": "Howling Laud Hope",
+				"party": "MRLP",
+				"votes": 184,
+				"change": "0.0",
+				"incumbent": false,
+				"elected": false
+			},
+			{
+				"candidate": "Fiona Syms",
+				"party": "Ind",
+				"votes": 173,
+				"change": "0.0",
+				"incumbent": false,
+				"elected": false
+			},
+			{
+				"candidate": "Dominic Stockford",
+				"party": "Christian Peoples Alliance",
+				"votes": 164,
+				"change": "0.0",
+				"incumbent": false,
+				"elected": false
+			},
+			{
+				"candidate": "Maharaja Jammu and Kashmir",
+				"party": "One Love",
+				"votes": 67,
+				"change": "0.0",
+				"incumbent": false,
+				"elected": false
+			},
+			{
+				"candidate": "David Powell",
+				"party": "Ind",
+				"votes": 32,
+				"change": "0.0",
+				"incumbent": false,
+				"elected": false
+			}
+		]
+	},
+	"E14000929": {
+		"id": "E14000929",
+		"name": "Sleaford and North Hykeham",
+		"by-election": {
+			"date": "8 December 2016",
+			"reason": "Resigned"
+		},
+		"electorate": 87972,
+		"turnout": 32893,
+		"majority": 13144,
+		"result": "Con hold",
+		"mp": {
+			"name": "Caroline Johnson",
+			"party": "Con"
+		},
+		"candidates": [{
+				"candidate": "Caroline Johnson",
+				"party": "Con",
+				"votes": 17570,
+				"change": "-2.7",
+				"incumbent": false,
+				"elected": true
+			},
+			{
+				"candidate": "Victoria Ayling",
+				"party": "UKIP",
+				"votes": 4426,
+				"change": "-2.2",
+				"incumbent": false,
+				"elected": false
+			},
+			{
+				"candidate": "Ross Pepper",
+				"party": "LD",
+				"votes": 3606,
+				"change": "5.3",
+				"incumbent": false,
+				"elected": false
+			},
+			{
+				"candidate": "Jim Clarke",
+				"party": "Lab",
+				"votes": 3363,
+				"change": "-7.1",
+				"incumbent": false,
+				"elected": false
+			},
+			{
+				"candidate": "Marianne Overton",
+				"party": "Lincs Ind",
+				"votes": 2892,
+				"change": "3.6",
+				"incumbent": false,
+				"elected": false
+			},
+			{
+				"candidate": "Sarah Stock",
+				"party": "Ind",
+				"votes": 462,
+				"change": "0.0",
+				"incumbent": false,
+				"elected": false
+			},
+			{
+				"candidate": "The Iconic Arty-Pole",
+				"party": "MRLP",
+				"votes": 200,
+				"change": "0.0",
+				"incumbent": false,
+				"elected": false
+			},
+			{
+				"candidate": "Paul Coyne",
+				"party": "Ind",
+				"votes": 186,
+				"change": "0.0",
+				"incumbent": false,
+				"elected": false
+			},
+			{
+				"candidate": "Mark Suffield",
+				"party": "Ind",
+				"votes": 74,
+				"change": "0.0",
+				"incumbent": false,
+				"elected": false
+			},
+			{
+				"candidate": "David Bishop",
+				"party": "Buss-Pass Elvis",
+				"votes": 55,
+				"change": "0.0",
+				"incumbent": false,
+				"elected": false
+			}
+		]
+	},
+	"E14000647": {
+		"id": "E14000647",
+		"name": "Copeland",
+		"by-election": {
+			"date": "23 February 2017",
+			"reason": "Resigned taking new role in industry"
+		},
+		"electorate": 62087,
+		"turnout": 39631,
+		"majority": 2564,
+		"result": "Con gain from Lab",
+		"mp": {
+			"name": "Trudy Harrison",
+			"party": "Con"
+		},
+		"candidates": [{
+				"candidate": "Trudy Harrison",
+				"party": "Con",
+				"votes": 13748,
+				"change": "8.5",
+				"incumbent": false,
+				"elected": true
+			},
+			{
+				"candidate": "Gillian Troughton",
+				"party": "Lab",
+				"votes": 11601,
+				"change": "-4,9",
+				"incumbent": false,
+				"elected": false
+			},
+			{
+				"candidate": "Rebecca Hanson",
+				"party": "LD",
+				"votes": 2252,
+				"change": "3.8",
+				"incumbent": false,
+				"elected": false
+			},
+			{
+				"candidate": "Fiona Mills",
+				"party": "UKIP",
+				"votes": 2025,
+				"change": "-9.0",
+				"incumbent": false,
+				"elected": false
+			},
+			{
+				"candidate": "Michael Guest",
+				"party": "Ind",
+				"votes": 811,
+				"change": "0.0",
+				"incumbent": false,
+				"elected": false
+			},
+			{
+				"candidate": "Jack Lenox",
+				"party": "Green",
+				"votes": 515,
+				"change": "-1.3",
+				"incumbent": false,
+				"elected": false
+			},
+			{
+				"candidate": "Roy Ivinson",
+				"party": "Ind",
+				"votes": 116,
+				"change": "0.0",
+				"incumbent": false,
+				"elected": false
+			}
+		]
+	},
+	"E14000972": {
+		"id": "E14000972",
+		"name": "Stoke-On-Trent Central",
+		"by-election": {
+			"date": "23 February 2017",
+			"reason": "Resigned"
+		},
+		"electorate": 60634,
+		"turnout": 21200,
+		"majority": 2620,
+		"result": "Lab hold",
+		"mp": {
+			"name": "Gareth Snell",
+			"party": "Lab"
+		},
+		"candidates": [{
+				"candidate": "Gareth Snell",
+				"party": "Lab",
+				"votes": 7853,
+				"change": "-2.2",
+				"incumbent": false,
+				"elected": true
+			},
+			{
+				"candidate": "Paul Nuttal",
+				"party": "UKIP",
+				"votes": 5233,
+				"change": "2.1",
+				"incumbent": false,
+				"elected": false
+			},
+			{
+				"candidate": "Jack Bereton",
+				"party": "Con",
+				"votes": 5154,
+				"change": "1.8",
+				"incumbent": false,
+				"elected": false
+			},
+			{
+				"candidate": "Zulfiqar Ali",
+				"party": "LD",
+				"votes": 2083,
+				"change": "5.7",
+				"incumbent": false,
+				"elected": false
+			},
+			{
+				"candidate": "Adam Colclough",
+				"party": "Green",
+				"votes": 294,
+				"change": "-2.2",
+				"incumbent": false,
+				"elected": false
+			},
+			{
+				"candidate": "Barbara Fielding",
+				"party": "Ind",
+				"votes": 137,
+				"change": "0.0",
+				"incumbent": false,
+				"elected": false
+			},
+			{
+				"candidate": "The Incredible Flying Brick",
+				"party": "MRLP",
+				"votes": 127,
+				"change": "0.0",
+				"incumbent": false,
+				"elected": false
+			},
+			{
+				"candidate": "David Furness",
+				"party": "BNP",
+				"votes": 124,
+				"change": "0.0",
+				"incumbent": false,
+				"elected": false
+			},
+			{
+				"candidate": "Godfrey Davies",
+				"party": "Christian Peoples Alliance",
+				"votes": 109,
+				"change": "0.0",
+				"incumbent": false,
+				"elected": false
+			},
+			{
+				"candidate": "Mohammad Akram",
+				"party": "Ind",
+				"votes": 56,
+				"change": "0.0",
+				"incumbent": false,
+				"elected": false
+			}
+		]
+	}
+}
