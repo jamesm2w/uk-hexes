@@ -279,9 +279,20 @@ class Map {
 				.attr("fill", hex => {
 					
 					if (this.results[hex.key]) {
-						
-						let winningParty = this.results[hex.key].mp.party;
-						return this.partyData.colour(winningParty.toLowerCase()) || "#616161";
+						let fillColour = "#616161";
+						let result = this.results[hex.key];
+						let winningParty =result.mp.party;
+
+						switch (this.config.displayMode) {
+							case "second":
+								fillColour = this.partyData.colour(result.candidates[1].party.toLowerCase()) || "#616161";
+								break;
+							default:
+								fillColour = this.partyData.colour(winningParty.toLowerCase()) || "#616161";
+								break;
+						}
+
+						return fillColour;
 					} else {
 						return "#616161";
 					}
