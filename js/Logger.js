@@ -4,7 +4,7 @@ class Logger {
 	}
 	
 	static warn (message) {
-		console.warn(`Warn: ${message}`);
+		console.warn(message);
 	}
 	
 	static error (message) {

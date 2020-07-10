@@ -4,7 +4,7 @@ class Config {
 		this._displayMode = "configHexFill";
 
 
-		this.displayModes = ["default", "second"];
+		this.displayModes = ["default", "second", "majority"];
 		this.currentDisplayMode = 0;
 
 		document.getElementById(this._displayMode).addEventListener("change", e => {

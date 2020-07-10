@@ -247,6 +247,13 @@ class Map {
 					case "second":
 						fillColour = this.partyData.colour(result.candidates[1].party.toLowerCase()) || "#616161";
 						break;
+					case "majority":
+						fillColour = pSBC(
+							(1 - (result.majority / result.candidates[0].votes)) - 0.25,
+							this.partyData.colour(winningParty.toLowerCase()),
+							false, 
+							true);
+						break;
 					default:
 						fillColour = this.partyData.colour(winningParty.toLowerCase()) || "#616161";
 						break;
@@ -286,6 +293,13 @@ class Map {
 						switch (this.config.displayMode) {
 							case "second":
 								fillColour = this.partyData.colour(result.candidates[1].party.toLowerCase()) || "#616161";
+								break;
+							case "majority":
+								fillColour = pSBC(
+									(1 - (result.majority / result.candidates[0].votes)) - 0.25,
+									this.partyData.colour(winningParty.toLowerCase()),
+									false, 
+									true);
 								break;
 							default:
 								fillColour = this.partyData.colour(winningParty.toLowerCase()) || "#616161";
