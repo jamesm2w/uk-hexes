@@ -44,6 +44,9 @@ class Map {
 		
 	}
 
+	/*
+		Sets the year and type of election data to show and loads them into the map
+	*/
 	switchDataSource (year, type) {
 		this.currentMap = {"year": year, "type": type};
 
@@ -53,7 +56,17 @@ class Map {
 		document.getElementById("electionTitle").innerText = `${year} ${type} Results`;
 		document.getElementById("electoralResult").innerText = this.seatData[year].result;
 	}
+
+	/*
+		Refreshes the map to update hex fill or similar
+	*/
+	refreshMap () {
+		return this.switchDataSource(this.currentMap.year, this.currentMap.type);
+	}
 	
+	/*
+		Creates the option list of all the constituencies listed
+	*/	
 	generateConstituencyList () {
 		Object.keys(this.UKHexMap.hexes).forEach(item => {
 			let onsKey = document.createElement("option");
@@ -71,6 +84,9 @@ class Map {
 		});
 	}
 	
+	/*
+		Loads all the JSON data
+	*/
 	loadJSON () {
 		d3.json("data/UKPGE.json").then(data => {
 			this.seatData = data;
@@ -150,6 +166,9 @@ class Map {
 		}).catch(Logger.warn);
 	}
 	
+	/*
+		Creates d3 hexjson map element
+	*/
 	createMap () {
 		document.getElementById("map").innerHTML = "";
 
@@ -210,6 +229,9 @@ class Map {
 			.attr("id", "selected");
 	}
 	
+	/*
+		Fills the hex elements and adds event handlers
+	*/
 	showElectionData (dataKey) {
 
 		if (this.ElectionResults[dataKey]) {
@@ -218,8 +240,17 @@ class Map {
 				let result = this.ElectionResults[dataKey][resultKey];
 				let hexElement = d3.select("#" + resultKey);
 				let winningParty = result.mp.party;
-				let fillColour = this.partyData.colour(winningParty.toLowerCase()) || "#616161";
+
+				let fillColour = "#616161";
 				
+				switch (this.config.displayMode) {
+					case "second":
+						fillColour = this.partyData.colour(result.candidates[1].party.toLowerCase()) || "#616161";
+						break;
+					default:
+						fillColour = this.partyData.colour(winningParty.toLowerCase()) || "#616161";
+						break;
+				}
 				
 				hexElement.attr("fill", fillColour);
 				hexElement.on("click", () => {
@@ -274,6 +305,9 @@ class Map {
 		}
 	}
 
+	/*
+		Creates the overview seat information
+	*/
 	showSeatData (dataKey) {
 		let data = this.seatData[dataKey];
 
@@ -296,6 +330,9 @@ class Map {
 		}
 	}
 
+	/*
+		Shows the detailed seat result in the left hand panel
+	*/
 	showSeatResult (id) {
 		let result;
 

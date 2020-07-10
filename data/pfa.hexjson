@@ -1,0 +1,215 @@
+{
+    "layout": "odd-r",
+    "hexes": {
+        "E23000015": {
+            "n": "Staffordshire",
+            "r": 3,
+            "q": 1
+        },
+        "E23000002": {
+            "n": "Cumbria",
+            "r": 7,
+            "q": 1
+        },
+        "E23000007": {
+            "n": "Northumbria",
+            "r": 8,
+            "q": 2
+        },
+        "E23000008": {
+            "n": "Durham",
+            "r": 7,
+            "q": 2
+        },
+        "E23000013": {
+            "n": "Cleveland",
+            "r": 7,
+            "q": 3
+        },
+        "E23000009": {
+            "n": "North Yorkshire",
+            "r": 6,
+            "q": 3
+        },
+        "E23000003": {
+            "n": "Lancashire",
+            "r": 6,
+            "q": 2
+        },
+        "E23000010": {
+            "n": "West Yorkshire",
+            "r": 5,
+            "q": 3
+        },
+        "E23000012": {
+            "n": "Humberside",
+            "r": 6,
+            "q": 4
+        },
+        "E23000004": {
+            "n": "Merseyside",
+            "r": 5,
+            "q": 1
+        },
+        "E23000005": {
+            "n": "Greater Manchester",
+            "r": 5,
+            "q": 2
+        },
+        "E23000011": {
+            "n": "South Yorkshire",
+            "r": 5,
+            "q": 4
+        },
+        "W15000001": {
+            "n": "North Wales",
+            "r": 4,
+            "q": 0
+        },
+        "E23000006": {
+            "n": "Cheshire",
+            "r": 4,
+            "q": 1
+        },
+        "E23000018": {
+            "n": "Derbyshire",
+            "r": 4,
+            "q": 2
+        },
+        "E23000019": {
+            "n": "Nottinghamshire",
+            "r": 4,
+            "q": 3
+        },
+        "E23000020": {
+            "n": "Lincolnshire",
+            "r": 4,
+            "q": 5
+        },
+        "W15000004": {
+            "n": "Dyfed-Powys",
+            "r": 3,
+            "q": 0
+        },
+        "E23000016": {
+            "n": "West Mercia",
+            "r": 2,
+            "q": 2
+        },
+        "E23000014": {
+            "n": "West Midlands",
+            "r": 3,
+            "q": 2
+        },
+        "E23000017": {
+            "n": "Warwickshire",
+            "r": 3,
+            "q": 3
+        },
+        "E23000021": {
+            "n": "Leicestershire",
+            "r": 4,
+            "q": 4
+        },
+        "E23000023": {
+            "n": "Cambridgeshire",
+            "r": 3,
+            "q": 6
+        },
+        "E23000024": {
+            "n": "Norfolk",
+            "r": 4,
+            "q": 6
+        },
+        "E23000022": {
+            "n": "Northamptonshire",
+            "r": 3,
+            "q": 4
+        },
+        "E23000025": {
+            "n": "Suffolk",
+            "r": 3,
+            "q": 7
+        },
+        "W15000003": {
+            "n": "South Wales",
+            "r": 2,
+            "q": 1
+        },
+        "W15000002": {
+            "n": "Gwent",
+            "r": 2,
+            "q": 0
+        },
+        "E23000037": {
+            "n": "Gloucestershire",
+            "r": 2,
+            "q": 3
+        },
+        "E23000029": {
+            "n": "Thames Valley",
+            "r": 2,
+            "q": 4
+        },
+        "E23000026": {
+            "n": "Bedfordshire",
+            "r": 3,
+            "q": 5
+        },
+        "E23000027": {
+            "n": "Hertfordshire",
+            "r": 2,
+            "q": 5
+        },
+        "E23000028": {
+            "n": "Essex",
+            "r": 2,
+            "q": 7
+        },
+        "E23000036": {
+            "n": "Avon and Somerset",
+            "r": 1,
+            "q": 1
+        },
+        "E23000038": {
+            "n": "Wiltshire",
+            "r": 1,
+            "q": 2
+        },
+        "E23000030": {
+            "n": "Hampshire",
+            "r": 1,
+            "q": 3
+        },
+        "E23000031": {
+            "n": "Surrey",
+            "r": 1,
+            "q": 4
+        },
+        "E23000001": {
+            "n": "Metropolitan Police",
+            "r": 2,
+            "q": 6
+        },
+        "E23000032": {
+            "n": "Kent",
+            "r": 1,
+            "q": 6
+        },
+        "E23000035": {
+            "n": "Devon & Cornwall",
+            "r": 0,
+            "q": 1
+        },
+        "E23000039": {
+            "n": "Dorset",
+            "r": 0,
+            "q": 2
+        },
+        "E23000033": {
+            "n": "Sussex",
+            "r": 1,
+            "q": 5
+        }
+    }
+}
