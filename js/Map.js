@@ -228,6 +228,40 @@ class Map {
 			.append("polygon")
 			.attr("id", "selected");
 	}
+
+	getHexFill (result) {
+		let winningParty = result.mp.party;
+		let fillColour = "#616161";
+		let seatResult = (result.candidates[0].votes / result.turnout > 0.5) ? "majority" : "plurality";
+				
+		switch (this.config.hexFill) {
+			case "second":
+				fillColour = this.partyData.colour(result.candidates[1].party.toLowerCase()) || "#616161";
+				break;
+			case "majority": // Blend the party colour lighter/darker based on majority
+				fillColour = pSBC(
+					(1 - (result.majority / result.candidates[0].votes)) - 0.25,
+					this.partyData.colour(winningParty.toLowerCase()),
+					false, 
+					true);
+				break;
+			case "turnout": // Blend a colour based on turnout
+
+				let averageTurnout = this.seatData[this.currentMap.year].turnout;
+
+				fillColour = pSBC(((1 - averageTurnout) - (result.turnout / result.electorate)) * 1.5, "#aed581", false, true);
+				break;
+			default:
+				fillColour = this.partyData.colour(winningParty.toLowerCase()) || "#616161";
+				break;
+		}
+
+		if (this.config.displayMode != "default" && this.config.displayMode != seatResult) {
+			fillColour = "#616161";
+		}
+
+		return fillColour
+	}
 	
 	/*
 		Fills the hex elements and adds event handlers
@@ -239,25 +273,9 @@ class Map {
 			for (let resultKey in this.ElectionResults[dataKey]) {
 				let result = this.ElectionResults[dataKey][resultKey];
 				let hexElement = d3.select("#" + resultKey);
-				let winningParty = result.mp.party;
-
-				let fillColour = "#616161";
 				
-				switch (this.config.displayMode) {
-					case "second":
-						fillColour = this.partyData.colour(result.candidates[1].party.toLowerCase()) || "#616161";
-						break;
-					case "majority":
-						fillColour = pSBC(
-							(1 - (result.majority / result.candidates[0].votes)) - 0.25,
-							this.partyData.colour(winningParty.toLowerCase()),
-							false, 
-							true);
-						break;
-					default:
-						fillColour = this.partyData.colour(winningParty.toLowerCase()) || "#616161";
-						break;
-				}
+
+				let fillColour = this.getHexFill(result);	
 				
 				hexElement.attr("fill", fillColour);
 				hexElement.on("click", () => {
@@ -286,27 +304,10 @@ class Map {
 				.attr("fill", hex => {
 					
 					if (this.results[hex.key]) {
-						let fillColour = "#616161";
 						let result = this.results[hex.key];
-						let winningParty =result.mp.party;
+						
+						return this.getHexFill(result);
 
-						switch (this.config.displayMode) {
-							case "second":
-								fillColour = this.partyData.colour(result.candidates[1].party.toLowerCase()) || "#616161";
-								break;
-							case "majority":
-								fillColour = pSBC(
-									(1 - (result.majority / result.candidates[0].votes)) - 0.25,
-									this.partyData.colour(winningParty.toLowerCase()),
-									false, 
-									true);
-								break;
-							default:
-								fillColour = this.partyData.colour(winningParty.toLowerCase()) || "#616161";
-								break;
-						}
-
-						return fillColour;
 					} else {
 						return "#616161";
 					}

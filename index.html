@@ -36,6 +36,12 @@
 						<option value="default">Winning Party</option>
 						<option value="second">Second Place Party</option>
 						<option value="majority">Majority Shaded</option>
+						<option value="turnout">Turnout Shaded</option>
+					</select></li>
+					<li>Display: <select id="configDisplayMode">
+						<option value="default">All Seats</option>
+						<option value="majority">Won on Majority</option>
+						<option value="plurality">Won on Plurality</option>
 					</select></li>
 				</ul>
 			</p>
@@ -86,6 +92,13 @@
 		<script src="js/Config.js"></script>
 		<script src="js/Map.js"></script>
 		<script>
+			/*
+			pSBC - Shades a colour by a given factor
+			params : p = percent to shade
+					c0 = first colour (from)
+					c1 = second colour (to or false for white)
+					 l = linear?
+			*/
 			const pSBC=(p,c0,c1,l)=>{
 				let r,g,b,P,f,t,h,i=parseInt,m=Math.round,a=typeof(c1)=="string";
 				if(typeof(p)!="number"||p<-1||p>1||typeof(c0)!="string"||(c0[0]!='r'&&c0[0]!='#')||(c1&&!a))return null;

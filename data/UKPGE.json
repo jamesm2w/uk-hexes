@@ -1,6 +1,7 @@
 {
   "2010": {
-    "result": "Con/LD coal",
+    "result": "Con/LD",
+	"turnout": 0.651,
     "Conservative Party": {
       "seats": 306,
       "votes": 10703754
@@ -52,6 +53,7 @@
   },
   "2015": {
     "result": "Con majority",
+	"turnout": 0.664,
     "Conservative Party": {
       "seats": 330,
       "votes": 11299609
@@ -107,6 +109,7 @@
   },
   "2015-2017": {
     "result": "LD +1; Con 0; Lab -1",
+	"turnout": 0.0,
     "Labour Party": {
       "seats": 6,
       "votes": 109176
@@ -122,6 +125,7 @@
   },
   "2017": {
     "result": "Con min/DUP supply",
+	"turnout": 0.688,
     "Conservative Party": {
       "seats": 317,
       "votes": 13636684
@@ -165,6 +169,7 @@
   },
   "2017-2019": {
     "result": "LD +1; Lab 0; SF 0; Con -1",
+	"turnout": 0.0,
     "Labour Party": {
       "seats": "3",
       "votes": 32505
@@ -184,6 +189,7 @@
   },
   "2019": {
     "result": "Con majority",
+	"turnout": 0.673,
     "Conservative Party": {
       "seats": 365,
       "votes": 13966565
@@ -230,6 +236,7 @@
     }
   },
   "2019-": {
-    "result": "No Change"
+    "result": "No Change",
+	"turnout": 0.0
   }
 }
