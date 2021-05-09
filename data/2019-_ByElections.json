@@ -1,1 +1,219 @@
-{}
+{
+	"E14000733": {
+		"id": "E14000733",
+		"name": "Hartlepool",
+		"by-election": {
+			"previous": "Mike Hill",
+			"date": "6 May 2021",
+			"reason": "Resignation after allegations of sexual harrassment"
+		},
+		"electorate": 64101,
+		"turnout": 29933,
+		"majority": 6940,
+		"result": "Con gain from Lab",
+		"mp": {
+			"name": "Jill Mortimer",
+			"party": "Con"
+		},
+		"candidates": [
+			{
+				"candidate": "Jill Mortimer",
+				"party": "Con",
+				"votes": 15529,
+				"change": 23.0,
+				"incumbent": false,
+				"elected": true
+			},
+			{
+				"candidate": "Paul Williams",
+				"party": "Lab",
+				"votes": 8589,
+				"change": -9.0,
+				"incumbent": false,
+				"elected": false
+			},
+			{
+				"candidate": "Sam Lee",
+				"party": "Ind",
+				"votes": 2904,
+				"change": 0,
+				"incumbent": false,
+				"elected": false
+			},
+			{
+				"candidate": "Claire Martin",
+				"party": "Heritage",
+				"votes": 468,
+				"change": 0,
+				"incumbent": false,
+				"elected": false
+			},
+			{
+				"candidate": "John Prescott",
+				"party": "Reform UK",
+				"votes": 368,
+				"change": -24.6,
+				"incumbent": false,
+				"elected": false
+			},
+			{
+				"candidate": "Rachel Featherstone",
+				"party": "Green",
+				"votes": 358,
+				"change": 0,
+				"incumbent": false,
+				"elected": false
+			},
+			{
+				"candidate": "Andrew Hagon",
+				"party": "LD",
+				"votes": 349,
+				"change": -2.9,
+				"incumbent": false,
+				"elected": false
+			},
+			{
+				"candidate": "Thelma Walker",
+				"party": "Ind",
+				"votes": 250,
+				"change": 0,
+				"incumbent": false,
+				"elected": false
+			},
+			{
+				"candidate": "Chris Killick",
+				"party": "Ind",
+				"votes": 248,
+				"change": 0,
+				"incumbent": false,
+				"elected": false
+			},
+			{
+				"candidate": "Hilton Dawson",
+				"party": "North East",
+				"votes": 163,
+				"change": 0,
+				"incumbent": false,
+				"elected": false
+			},
+			{
+				"candidate": "W. Ralph Ward-Jackson",
+				"party": "Ind",
+				"votes": 157,
+				"change": 0,
+				"incumbent": false,
+				"elected": false
+			},
+			{
+				"candidate": "Gemma Evans",
+				"party": "WEP",
+				"votes": 140,
+				"change": 0,
+				"incumbent": false,
+				"elected": false
+			},
+			{
+				"candidate": "Adam Gaines",
+				"party": "Ind",
+				"votes": 126,
+				"change": 0,
+				"incumbent": false,
+				"elected": false
+			},
+			{
+				"candidate": "The Incredible Flying Brick",
+				"party": "MRLP",
+				"votes": 108,
+				"change": 0,
+				"incumbent": false,
+				"elected": false
+			},
+			{
+				"candidate": "David Bettney",
+				"party": "SDP",
+				"votes": 104,
+				"change": 0,
+				"incumbent": false,
+				"elected": false
+			},
+			{
+				"candidate": "Steve Jack",
+				"party": "FAL",
+				"votes": 72,
+				"change": 0,
+				"incumbent": false,
+				"elected": false
+			}
+		]
+	},
+	"S14000003": {
+		"id": "S14000003",
+		"name": "Airdrie and Shotts",
+		"by-election": {
+			"previous": "Neil Gray",
+			"date": "13 May 2021",
+			"reason": "Resigned to run for Scottish Parliament"
+		},
+		"electorate": 64011,
+		"turnout": 0,
+		"majority": 0,
+		"result": "TBA",
+		"mp": {
+			"name": "TBA",
+			"party": "Ind"
+		},
+		"candidates": [
+			{
+				"candidate": "TBA",
+				"party": "Ind",
+				"votes": 0,
+				"change": 0,
+				"incumbent": false,
+				"elected": false
+			}
+		]
+	},
+	"E14000631": {
+		"id": "E14000631",
+		"name": "Chesham and Amersham", 
+		"by-election": {
+			"previous": "Cheryl Gillian",
+			"date": "TBA",
+			"reason": "Passed away on the 4th of April 2021."
+		},
+		"electorate": 71654, 
+		"turnout": 0, 
+		"majority": 0, 
+		"result": "TBA", 
+		"mp": {
+			"name": "TBA",
+			"party": "Ind"
+		},
+		"candidates": [
+			{
+				"candidate": "Peter Fleet",
+				"party": "Con",
+				"votes": 0,
+				"change": 0,
+				"incumbent": false,
+				"elected": false
+			},
+			{
+				"candidate": "Sarah Green",
+				"party": "LD",
+				"votes": 0,
+				"change": 0,
+				"incumbent": false,
+				"elected": false
+			},
+			{
+				"candidate": "Carolyne Culver",
+				"party": "Green",
+				"votes": 0,
+				"change": 0,
+				"incumbent": false,
+				"elected": false
+			}
+		]
+	}
+}
