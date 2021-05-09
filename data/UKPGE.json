@@ -1,5 +1,6 @@
 {
   "2010": {
+    "turnout": 0.651,
     "result": "Con/LD",
     "Conservative Party": {
       "seats": 306,
@@ -51,6 +52,7 @@
     }
   },
   "2015": {
+    "turnout": 0.664,
     "result": "Con majority",
     "Conservative Party": {
       "seats": 330,
@@ -106,6 +108,7 @@
     }
   },
   "2015-2017": {
+    "turnout": 0.0,
     "result": "LD +1; Con 0; Lab -1",
     "Labour Party": {
       "seats": 6,
@@ -121,6 +124,7 @@
     }
   },
   "2017": {
+    "turnout": 0.688,
     "result": "Con min/DUP supply",
     "Conservative Party": {
       "seats": 317,
@@ -164,6 +168,7 @@
     }
   },
   "2017-2019": {
+    "turnout": 0.0,
     "result": "LD +1; Lab 0; SF 0; Con -1",
     "Labour Party": {
       "seats": "3",
@@ -183,6 +188,7 @@
     }
   },
   "2019": {
+    "turnout": 0.673,
     "result": "Con majority",
     "Conservative Party": {
       "seats": 365,
@@ -230,6 +236,7 @@
     }
   },
   "2019-": {
+    "turnout": 0.0,
     "result": "Con +1; Lab -1;",
     "Conservative": {
       "seats": 1,

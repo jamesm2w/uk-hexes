@@ -341,6 +341,7 @@ class Map {
 
 		let keysSorted = Object.keys(data).sort((a, b) => {return data[b].votes - data[a].votes});
 		keysSorted.shift();
+		keysSorted.shift();
 		document.getElementById("resultTable").innerHTML = `<tr> <th>Party</th> <th>Seats</th> <th>Votes</th> </tr>`;
 
 		for (let key of keysSorted) {
