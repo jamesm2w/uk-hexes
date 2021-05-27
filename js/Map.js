@@ -337,10 +337,8 @@ class Map {
 	showSeatData (dataKey) {
 		let data = this.seatData[dataKey];
 
-		let htmlString = "";
-
 		let keysSorted = Object.keys(data).sort((a, b) => {return data[b].votes - data[a].votes});
-		keysSorted.shift();
+		keysSorted.shift(); // Remove the keys for the turnout and result
 		keysSorted.shift();
 		document.getElementById("resultTable").innerHTML = `<tr> <th>Party</th> <th>Seats</th> <th>Votes</th> </tr>`;
 

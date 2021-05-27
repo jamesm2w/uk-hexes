@@ -237,7 +237,7 @@
   },
   "2019-": {
     "turnout": 0.0,
-    "result": "Con +1; Lab -1;",
+    "result": "Con +1; Lab -1; SNP 0;",
     "Conservative": {
       "seats": 1,
       "votes": 15529

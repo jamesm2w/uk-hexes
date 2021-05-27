@@ -155,19 +155,75 @@
 			"reason": "Resigned to run for Scottish Parliament"
 		},
 		"electorate": 64011,
-		"turnout": 0,
-		"majority": 0,
-		"result": "TBA",
+		"turnout": 21827,
+		"majority": 1757,
+		"result": "SNP hold",
 		"mp": {
-			"name": "TBA",
-			"party": "Ind"
+			"name": "Anum Qaisar-Javed",
+			"party": "SNP"
 		},
 		"candidates": [
 			{
-				"candidate": "TBA",
-				"party": "Ind",
-				"votes": 0,
-				"change": 0,
+				"candidate": "Anum Qaisar-Javed",
+				"party": "SNP",
+				"votes": 10129,
+				"change": 1.4,
+				"incumbent": false,
+				"elected": true
+			},
+			{
+				"candidate": "Kenneth Stevenson",
+				"party": "Lab",
+				"votes": 8372,
+				"change": 6.5,
+				"incumbent": false,
+				"elected": false
+			},
+			{
+				"candidate": "Ben Callaghan",
+				"party": "Con",
+				"votes": 2812,
+				"change": -4.7,
+				"incumbent": false,
+				"elected": false
+			},
+			{
+				"candidate": "Stephen Arrundale",
+				"party": "LD",
+				"votes": 220,
+				"change": -2.6,
+				"incumbent": false,
+				"elected": false
+			},
+			{
+				"candidate": "Neil Manson",
+				"party": "SDP",
+				"votes": 151,
+				"change": 0.7,
+				"incumbent": false,
+				"elected": false
+			},
+			{
+				"candidate": "Jonathan Stanley",
+				"party": "Scottish Unionist",
+				"votes": 59,
+				"change": 0.3,
+				"incumbent": false,
+				"elected": false
+			},
+			{
+				"candidate": "Martyn Greene",
+				"party": "Reform UK",
+				"votes": 45,
+				"change": 0.2,
+				"incumbent": false,
+				"elected": false
+			},
+			{
+				"candidate": "Donald Mackay",
+				"party": "UKIP",
+				"votes": 39,
+				"change": 0.2,
 				"incumbent": false,
 				"elected": false
 			}
@@ -178,7 +234,7 @@
 		"name": "Chesham and Amersham", 
 		"by-election": {
 			"previous": "Cheryl Gillian",
-			"date": "TBA",
+			"date": "17 June 2021",
 			"reason": "Passed away on the 4th of April 2021."
 		},
 		"electorate": 71654, 
@@ -213,7 +269,98 @@
 				"change": 0,
 				"incumbent": false,
 				"elected": false
+			},
+			{
+				"candidate": "Natasa Pantellic",
+				"party": "Lab",
+				"votes": 0,
+				"change": 0,
+				"incumbent": false,
+				"elected": false
+			},
+			{
+				"candidate": "Alex Wilson",
+				"party": "Reform UK",
+				"votes": 0,
+				"change": 0,
+				"incumbent": false,
+				"elected": false
+			},
+			{
+				"candidate": "Brendan Donnelly",
+				"party": "Rejoin EU",
+				"votes": 0,
+				"change": 0,
+				"incumbent": false,
+				"elected": false
+			},
+			{
+				"candidate": "Carla Gregory",
+				"party": "Breakthrough Party",
+				"votes": 0,
+				"change": 0,
+				"incumbent": false,
+				"elected": false
+			},
+			{
+				"candidate": "Adrian Oliver",
+				"party": "Freedom Alliance",
+				"votes": 0,
+				"change": 0,
+				"incumbent": false,
+				"elected": false
 			}
+		]
+	},
+	"E14000548": {
+		"id": "E14000548", 
+		"name": "Batley and Spen", 
+		"by-election": {
+			"previous": "Tracy Brabin",
+			"date": "1 July 2021",
+			"reason": "Resigned to become West Yorkshire Mayor."
+		},
+		"electorate": 79558, 
+		"turnout": 0, 
+		"majority": 0, 
+		"result": "TBA", 
+		"mp": {
+			"name": "TBA",
+			"party": "Ind"
+		},
+		"candidates": [
+			{
+				"candidate": "TBA",
+				"party": "Lab", 
+				"votes": 0, 
+				"change": 0, 
+				"incumbent": false, 
+				"elected": false
+			}, 
+			{
+				"candidate": "TBA", 
+				"party": "Con", 
+				"votes": 0, 
+				"change": 0, 
+				"incumbent": false, 
+				"elected": false
+			}, 
+			{
+				"candidate": "TBA", 
+				"party": "Heavy Woollen District Independents", 
+				"votes": 0, 
+				"change": 0, 
+				"incumbent": false, 
+				"elected": false
+			}, 
+			{
+				"candidate": "TBA", 
+				"party": "LD", 
+				"votes": 0, 
+				"change": 0, 
+				"incumbent": false, 
+				"elected": false
+			} 
 		]
 	}
 }
