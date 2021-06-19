@@ -237,14 +237,22 @@
   },
   "2019-": {
     "turnout": 0.0,
-    "result": "Con +1; Lab -1; SNP 0;",
+    "result": "LD +1; Con 0; SNP 0; Lab -1;",
     "Conservative": {
       "seats": 1,
-      "votes": 15529
+      "votes": 29018
+    },
+    "Liberal Democrat": {
+      "seats": 1, 
+      "votes": 22086
+    },
+    "SNP": {
+      "seats": 1, 
+      "votes": 10129
     },
     "Labour": {
       "seats": 0,
-      "votes": 8589
-    }
+      "votes": 9211
+    }    
   }
 }
