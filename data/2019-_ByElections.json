@@ -321,130 +321,138 @@
 			"reason": "Resigned to become West Yorkshire Mayor."
 		},
 		"electorate": 79558, 
-		"turnout": 0, 
-		"majority": 0, 
-		"result": "TBA", 
+		"turnout": 37786, 
+		"majority": 323, 
+		"result": "LAB hold", 
 		"mp": {
-			"name": "TBA",
-			"party": "Ind"
+			"name": "Kim Leadbeater",
+			"party": "Lab"
 		},
 		"candidates": [
 			{
 				"candidate": "Kim Leadbeater",
 				"party": "Lab", 
-				"votes": 0, 
-				"change": 0, 
+				"votes": 13296, 
+				"change": -7.5, 
 				"incumbent": false, 
-				"elected": false
+				"elected": true
 			}, 
 			{
 				"candidate": "Ryan Stephenson", 
 				"party": "Con", 
-				"votes": 0, 
-				"change": 0, 
+				"votes": 12973, 
+				"change": -1.7, 
 				"incumbent": false, 
 				"elected": false
 			}, 
 			{
 				"candidate": "George Galloway", 
 				"party": "Workers Party", 
-				"votes": 0, 
-				"change": 0, 
+				"votes": 8264, 
+				"change": 21.8, 
 				"incumbent": false, 
 				"elected": false
 			}, 
 			{
 				"candidate": "Tom Gordon", 
 				"party": "LD", 
-				"votes": 0, 
-				"change": 0, 
-				"incumbent": false, 
-				"elected": false
-			},
-			{
-				"candidate": "Paul Bickerdike", 
-				"party": "CPA", 
-				"votes": 0, 
-				"change": 0, 
-				"incumbent": false, 
-				"elected": false
-			},
-			{
-				"candidate": "Thérèse Hirst", 
-				"party": "ED", 
-				"votes": 0, 
-				"change": 0, 
-				"incumbent": false, 
-				"elected": false
-			},
-			{
-				"candidate": "Jayda Fransen", 
-				"party": "Ind", 
-				"votes": 0, 
-				"change": 0, 
-				"incumbent": false, 
-				"elected": false
-			},
-			{
-				"candidate": "Howling Laud Hope", 
-				"party": "MRLP", 
-				"votes": 0, 
-				"change": 0, 
-				"incumbent": false, 
-				"elected": false
-			},
-			{
-				"candidate": "Susan Laird", 
-				"party": "Heritage", 
-				"votes": 0, 
-				"change": 0, 
-				"incumbent": false, 
-				"elected": false
-			},
-			{
-				"candidate": "Ollie Purser", 
-				"party": "SDP", 
-				"votes": 0, 
-				"change": 0, 
+				"votes": 1254, 
+				"change": -1.3, 
 				"incumbent": false, 
 				"elected": false
 			},
 			{
 				"candidate": "Corey Robinson", 
 				"party": "Yorkshire Party", 
-				"votes": 0, 
-				"change": 0, 
+				"votes": 816, 
+				"change": 2.16, 
 				"incumbent": false, 
 				"elected": false
 			},
 			{
-				"candidate": "Andrew Smith", 
-				"party": "Rejoin EU", 
-				"votes": 0, 
-				"change": 0, 
+				"candidate": "Thérèse Hirst", 
+				"party": "ED", 
+				"votes": 207, 
+				"change": 0.5, 
 				"incumbent": false, 
 				"elected": false
 			},
 			{
 				"candidate": "Jack Thomson", 
 				"party": "UKIP", 
-				"votes": 0, 
-				"change": 0, 
+				"votes": 151, 
+				"change": 0.4, 
+				"incumbent": false, 
+				"elected": false
+			},
+			{
+				"candidate": "Howling Laud Hope", 
+				"party": "MRLP", 
+				"votes": 107, 
+				"change": 0.3, 
+				"incumbent": false, 
+				"elected": false
+			},
+			{
+				"candidate": "Mike Davies",
+				"party": "Alliance for Green Socialism",
+				"votes": 104,
+				"change": 0.3,
+				"incumbent": false,
+				"elected": false
+			},
+			{
+				"candidate": "Paul Bickerdike", 
+				"party": "CPA", 
+				"votes": 102, 
+				"change": 0.3, 
 				"incumbent": false, 
 				"elected": false
 			},
 			{
 				"candidate": "Jonathon Tilt", 
 				"party": "Freedom Alliance", 
-				"votes": 0, 
-				"change": 0, 
+				"votes": 100, 
+				"change": 0.3, 
 				"incumbent": false, 
 				"elected": false
 			},
 			{
 				"candidate": "Anne Marie Waters", 
 				"party": "For Britain", 
-				"votes": 0, 
+				"votes": 97, 
+				"change": 0.3, 
+				"incumbent": false, 
+				"elected": false
+			},
+			{
+				"candidate": "Andrew Smith", 
+				"party": "Rejoin EU", 
+				"votes": 75, 
+				"change": 0.2, 
+				"incumbent": false, 
+				"elected": false
+			},
+			{
+				"candidate": "Ollie Purser", 
+				"party": "SDP", 
+				"votes": 66, 
+				"change": 0.2, 
+				"incumbent": false, 
+				"elected": false
+			},		
+			{
+				"candidate": "Jayda Fransen", 
+				"party": "Ind", 
+				"votes": 50, 
+				"change": 0.1, 
+				"incumbent": false, 
+				"elected": false
+			},	
+			{
+				"candidate": "Susan Laird", 
+				"party": "Heritage", 
+				"votes": 33, 
 				"change": 0, 
 				"incumbent": false, 
 				"elected": false
