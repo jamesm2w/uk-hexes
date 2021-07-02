@@ -240,19 +240,19 @@
     "result": "LD +1; Con 0; SNP 0; Lab -1;",
     "Conservative": {
       "seats": 1,
-      "votes": 29018
+      "votes": 41991
     },
     "Liberal Democrat": {
       "seats": 1, 
-      "votes": 22086
+      "votes": 23340
+    },
+    "Labour": {
+      "seats": 1,
+      "votes": 22507
     },
     "SNP": {
       "seats": 1, 
       "votes": 10129
-    },
-    "Labour": {
-      "seats": 0,
-      "votes": 9211
-    }    
+    }
   }
 }
