@@ -458,5 +458,59 @@
 				"elected": false
 			}
 		]
+	},
+	"E14000869": {
+		"id": "E14000869", 
+		"name": "Old Bexley and Sidcup", 
+		"by-election": {
+			"previous": "James Brokenshire",
+			"date": "TBA",
+			"reason": "Death (Cancer)"
+		},
+		"electorate": 66104, 
+		"turnout": 0, 
+		"majority": 0, 
+		"result": "TBA", 
+		"mp": {
+			"name": "TBA",
+			"party": "Ind"
+		},
+		"candidates": [
+			{
+				"candidate": "TBA",
+				"party": "Con", 
+				"votes": 0, 
+				"change": 0, 
+				"incumbent": false, 
+				"elected": true
+			}
+		]
+	},
+	"E14000957": {
+		"id": "E14000957", 
+		"name": "Southend West", 
+		"by-election": {
+			"previous": "David Amess",
+			"date": "TBA",
+			"reason": "Death (Murder)"
+		},
+		"electorate": 66780, 
+		"turnout": 0, 
+		"majority": 0, 
+		"result": "TBA", 
+		"mp": {
+			"name": "TBA",
+			"party": "Ind"
+		},
+		"candidates": [
+			{
+				"candidate": "TBA",
+				"party": "Con", 
+				"votes": 0, 
+				"change": 0, 
+				"incumbent": false, 
+				"elected": true
+			}
+		]
 	}
 }
